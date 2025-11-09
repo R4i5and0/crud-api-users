@@ -1,7 +1,9 @@
 # Atividade Prática — Testes Unitários e Análise com SonarQube
 
 **Aluna:** Raissa Anunciação
+
 **Disciplina:** Métricas e Qualidade de Software
+
 **Professor:** Giovanni Cunha de Amorim
 
 ---
