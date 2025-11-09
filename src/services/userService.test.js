@@ -1,7 +1,6 @@
-// src/services/userService.test.js
 const userService = require('./userService');
 
-// Mock do UserModel com funções sincronas (como no código do professor)
+
 jest.mock('../models/UserModel', () => {
   let users = [
     { id: 1, name: 'João', email: 'joao@example.com', phone: '123456789' }

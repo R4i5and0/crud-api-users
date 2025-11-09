@@ -1,4 +1,3 @@
-// src/controllers/userController.test.js
 const userController = require('./userController');
 
 describe('UserController', () => {

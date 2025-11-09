@@ -1,0 +1,6 @@
+projectKey=R4i5and0_crud-api-users
+serverUrl=http://localhost:9000
+serverVersion=25.11.0.114957
+dashboardUrl=http://localhost:9000/dashboard?id=R4i5and0_crud-api-users
+ceTaskId=ff02c720-82cc-4ab1-bce6-e3c095137c1e
+ceTaskUrl=http://localhost:9000/api/ce/task?id=ff02c720-82cc-4ab1-bce6-e3c095137c1e
