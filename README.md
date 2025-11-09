@@ -1,4 +1,4 @@
-# Atividade Prática 2 — Testes Unitários e Análise com SonarQube
+# Atividade Prática — Testes Unitários e Análise com SonarQube
 
 **Aluna:** Raissa Anunciação
 **Disciplina:** Métricas e Qualidade de Software
