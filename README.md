@@ -18,7 +18,7 @@ Implementar testes unitários com Jest para os arquivos `userController.js` e `u
 
 
 **Descrição:**
-O projeto foi clonado do repositório base e atualizado no GitHub pessoal da aluna. O print exibe a estrutura final do projeto após a conclusão da atividade, com todos os novos arquivos e configurações, como `jest.config.js` e `sonar-project.properties`.
+O projeto foi clonado do repositório base e atualizado no GitHub. O print exibe a estrutura final do projeto após a conclusão da atividade, com todos os novos arquivos e configurações, como `jest.config.js` e `sonar-project.properties`.
 
 O último commit, "Corrige configuração para SonarQube local e atualização análise", confirma que todas as alterações, incluindo a implementação dos testes com Jest e a configuração para o SonarQube local, foram devidamente versionadas.
 
